@@ -11,7 +11,7 @@
 
 <ul>
 <li>Free software: MIT license</li>
-<li>Documentation: <a href="https://neo-boa.readthedocs.io" rel="nofollow">https://neo-boa.readthedocs.io</a>.</li>
+<li>I need a slide deck: <a href="https://docs.google.com/presentation/d/1ax_AnmSNgKm4zu60nKgPjejcsxoQHWU8AQvG60oy7wQ/edit?usp=sharing" rel="nofollow">hackton presentation with links you could find</a>.</li>
 </ul>
 
 ## Overview
