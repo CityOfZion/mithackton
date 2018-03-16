@@ -12,7 +12,7 @@
 <ul>
 <li>Free software: MIT license</li>
 <li>I need a slide deck: <a href="https://docs.google.com/presentation/d/1ax_AnmSNgKm4zu60nKgPjejcsxoQHWU8AQvG60oy7wQ/edit?usp=sharing" rel="nofollow">hackton presentation with links you could find</a>.</li>
-<li>Need help ? Our slack has developer channels for every programming language: <a href="https://discord.cityofzion.io" rel="nofollow">where to find help</a>.</li>
+<li>Need help ? Our chat has developer channels for every programming language: <a href="https://discord.cityofzion.io" rel="nofollow">where to find help</a>.</li>
 </ul>
 
 ## Overview
