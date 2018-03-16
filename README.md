@@ -19,7 +19,7 @@
 City of Zion (CoZ) is a community of developers building the NEO ecosystem tooling, we look weekly at every PR that close issues sent to projects in CoZ and vote to reward those in NEO, a positive loop for developers - with time their work impacts NEO and the rewards get valuable in many ways. MIT challenge is to solve the issues with the label "HACKIT" on the repositories bellow, we will give the maximum prize allowed ($5k) for the winner selected tomorrow but hackers should consider this a introduction to CoZ process, since you are submitting PRs that close issues you will feature in our next weekly rewards voting.
 
 - [#neon-wallet](https://github.com/cityofzion/neon-wallet)
-- [#neon-js(https://github.com/cityofzion/neon-js)
+- [#neon-js](https://github.com/cityofzion/neon-js)
 - [#neo-go](https://github.com/cityofzion/neo-go)
 - [#neo-python](https://github.com/cityofzion/neo-python)
 - [#neo-boa](https://github.com/cityofzion/neo-boa)
