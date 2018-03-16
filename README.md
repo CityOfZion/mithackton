@@ -4,7 +4,7 @@
     width="125px;">
 </p>
 
-<h1 align="center">MIT Bitcoin club hackton</h1>
+<h1 align="center">MIT Bitcoin club hack(a)t(h)on</h1>
 <p align="center">
   The worlds isn't what it used to be anymore, oh nonono. We don't need another blog/email/chat on the blockchain.
 </p>
