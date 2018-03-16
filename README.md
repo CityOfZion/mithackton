@@ -6,12 +6,13 @@
 
 <h1 align="center">MIT Bitcoin club hackton</h1>
 <p align="center">
-  The worlds ins't what it used to be anymore, oh nonono. We don't need another blog/email/chat on the blockchain. Much better use of your amazing brain!
+  The worlds ins't what it used to be anymore, oh nonono. We don't need another blog/email/chat on the blockchain. Much better use of your amazing brain! But careful with the greed Job, in CoZ work comes first.
 </p>
 
 <ul>
 <li>Free software: MIT license</li>
 <li>I need a slide deck: <a href="https://docs.google.com/presentation/d/1ax_AnmSNgKm4zu60nKgPjejcsxoQHWU8AQvG60oy7wQ/edit?usp=sharing" rel="nofollow">hackton presentation with links you could find</a>.</li>
+<li>Need help ? Our slack has developer channels for every programming language: <a href="https://discord.cityofzion.io" rel="nofollow">where to find help</a>.</li>
 </ul>
 
 ## Overview
