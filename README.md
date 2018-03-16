@@ -9,7 +9,7 @@
   The worlds isn't what it used to be anymore, oh nonono. We don't need another blog/email/chat on the blockchain.
 </p>
 <p align="center">
-  Much better use of your amazing brain! But careful with the greed Job, in CoZ work comes first.
+  Much better use of your amazing brain! But careful with the greed Joe, in CoZ work comes first.
 </p>
 
 <ul>
