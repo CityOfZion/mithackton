@@ -1,0 +1,2 @@
+# mithackton
+MIT hackton rules
