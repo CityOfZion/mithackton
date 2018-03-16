@@ -6,7 +6,10 @@
 
 <h1 align="center">MIT Bitcoin club hackton</h1>
 <p align="center">
-  The worlds ins't what it used to be anymore, oh nonono. We don't need another blog/email/chat on the blockchain. Much better use of your amazing brain! But careful with the greed Job, in CoZ work comes first.
+  The worlds isn't what it used to be anymore, oh nonono. We don't need another blog/email/chat on the blockchain.
+</p>
+<p align="center">
+  Much better use of your amazing brain! But careful with the greed Job, in CoZ work comes first.
 </p>
 
 <ul>
